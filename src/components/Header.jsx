@@ -37,7 +37,7 @@ const Header = ({ activeSection, scrollToSection }) => {
                             <Code className="navbar__logo-svg" />
                         </div>
                         <div className="navbar__logo-text">
-                            <span className="navbar__logo-title">GFPI-F-135</span>
+                            <span className="navbar__logo-title">CloudConfig</span>
                             <p className="navbar__logo-subtitle">Servicios & Clústeres</p>
                         </div>
                     </div>

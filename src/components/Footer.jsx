@@ -49,7 +49,7 @@ const Footer = () => {
                                     <Code className="footer__logo-svg" />
                                 </div>
                                 <div className="footer__logo-text">
-                                    <span className="footer__logo-title">GFPI-F-135 V01</span>
+                                    <span className="footer__logo-title">CloudConfig</span>
                                     <p className="footer__logo-subtitle">Configuración de Servicios</p>
                                 </div>
                             </div>
@@ -117,10 +117,6 @@ const Footer = () => {
                                 <div className="footer__contact-item">
                                     <strong className="footer__contact-label">Programa:</strong>
                                     <span className="footer__contact-text">Formación Técnica</span>
-                                </div>
-                                <div className="footer__contact-item">
-                                    <strong className="footer__contact-label">Código:</strong>
-                                    <span className="footer__contact-text">GFPI-F-135 V01</span>
                                 </div>
                                 <div className="footer__contact-item">
                                     <strong className="footer__contact-label">Tecnología:</strong>

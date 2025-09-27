@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
-import './style.css';
 import './styles/style.css';
+import './styles/style-remaining.css';
+import './styles/footer-styles.css';
 
 // Importar componentes
 import Header from './components/Header';

@@ -29,10 +29,6 @@ const HeroSection = ({ isVisible, scrollToSection }) => {
             <div className="hero__container">
                 <div className={`hero__content ${isVisible.hero ? 'hero__content--visible' : ''}`}>
                     {/* Badge */}
-                    <div className="hero__badge">
-                        <span className="hero__badge-text">SENA - EVIDENCIA TÉCNICA</span>
-                        <div className="hero__badge-dot"></div>
-                    </div>
 
                     {/* Main Heading */}
                     <h1 className="hero__title">
@@ -58,11 +54,6 @@ const HeroSection = ({ isVisible, scrollToSection }) => {
                                 <span className="hero__feature-text">{feature.text}</span>
                             </div>
                         ))}
-                    </div>
-
-                    {/* Version Badge */}
-                    <div className="hero__version">
-                        <span className="hero__version-text">GFPI-F-135 V01</span>
                     </div>
 
                     {/* CTA Buttons */}

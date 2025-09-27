@@ -72,9 +72,6 @@ const ReportSection = ({ isVisible }) => {
                         <h2 className="report__title">
                             Desarrollo del <span className="report__title-highlight">Informe</span>
                         </h2>
-                        <p className="report__subtitle">
-                            Estructura y componentes esenciales para tu evidencia técnica GFPI-F-135
-                        </p>
                     </div>
 
                     <div className="report__main">
