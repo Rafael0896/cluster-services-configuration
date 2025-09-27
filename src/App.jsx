@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import './style.css';
+import './styles/style.css';
 
 // Importar componentes
 import Header from './components/Header';
